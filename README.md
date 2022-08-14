@@ -10,8 +10,10 @@
  - 🌱 I’m currently learning **Go Lang, Kotlin and Devops** 
   
  - 👯 I’m looking to collaborate on **any cool open source projects** 
-  
- - 🤝 I’m looking for help with **getting remote jobs/internships** 
+ 
+ - 🎓 I'm currently persuing a Bachelor's Degree in Information Systems  
+ 
+ - 🤝 I’m open for **remote jobs/internships** 
   
  - 👨‍💻 All of my projects are available at [https://github.com/izzyjere](https://github.com/izzyjere) 
  

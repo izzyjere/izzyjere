@@ -33,11 +33,7 @@
  <a href="https://hashnode.com/izzyjere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="izzyjere" height="30" width="40" /></a> 
  </p> 
   
- <h3 align="left">Languages and Tools:</h3> 
-
-  
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=izzyjere&show_icons=true&locale=en&layout=compact" alt="izzyjere" /></p> 
-  
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izzyjere&show_icons=true&locale=en" alt="izzyjere" /></p> 
-  
+ <h3 align="left">Languages and Tools:</h3>  
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=izzyjere&show_icons=true&locale=en&layout=compact" alt="izzyjere" /></p>  
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izzyjere&show_icons=true&locale=en" alt="izzyjere" /></p>   
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izzyjere&" alt="izzyjere" /></p> 

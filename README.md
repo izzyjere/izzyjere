@@ -1,4 +1,4 @@
-       <h1 align="center">Hi  👋 I am Wisdom</h1> 
+ <h1 align="center">Hi  👋 I am Wisdom</h1> 
  <h3 align="center">A passionate software developer and open source enthusiast Zambia.</h3> 
   
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=izzyjere" /></a> </p> 
@@ -22,7 +22,7 @@
   
  - 📄 Know about my experiences 
   
- - ⚡ Fun fact **Swimming is my hobby (but I can't swim)** 
+ - ⚡ Fun fact **Singing is my hobby (but I can't sing)** 
   
  <h3 align="left">Connect with me:</h3> 
  <p align="left"> 

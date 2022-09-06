@@ -1,7 +1,7 @@
  <h1 align="center">Hi  👋 I am Wisdom</h1> 
  <h3 align="center">A passionate software developer and open source enthusiast Zambia.</h3> 
   
- <p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=izzyjere&theme=onedark" /></a> </p> 
+ <p align="left"> <a href="https://github.com/izzyjere"><img src="https://github-profile-trophy.vercel.app/?username=izzyjere&theme=onedark" /></a> </p> 
   
  <p align="left"> <a href="https://twitter/izzyjere" target="blank"><img src="https://img.shields.io/twitter/follow/izzyjere?logo=twitter&style=for-the-badge" alt="izzyjere" /></a> </p> 
   

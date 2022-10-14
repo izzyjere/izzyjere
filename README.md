@@ -3,7 +3,7 @@
   
  <p align="left"> <a href="https://github.com/izzyjere"><img src="https://github-profile-trophy.vercel.app/?username=izzyjere&theme=onedark" /></a> </p> 
   
- <p align="left"> <a href="https://twitter/izzyjere" target="blank"><img src="https://img.shields.io/twitter/follow/izzyjere?logo=twitter&style=for-the-badge" alt="izzyjere" /></a> </p> 
+ <p align="left"> <a href="https://twitter.com/izzyjere" target="blank"><img src="https://img.shields.io/twitter/follow/izzyjere?logo=twitter&style=for-the-badge" alt="izzyjere" /></a> </p> 
   
  - 🔭 I’m currently working on [College App](https://collegeapp.net) 
   

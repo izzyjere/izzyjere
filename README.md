@@ -38,4 +38,4 @@
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=izzyjere&show_icons=true&locale=en&layout=compact" alt="izzyjere" /></p>  
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izzyjere&show_icons=true&locale=en" alt="izzyjere" /></p>   
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izzyjere&" alt="izzyjere" /></p> 
- ![izzyjere](https://activity-graph.herokuapp.com/graph?username=izzyjere&bg_color=0c1117&color=00883d&line=0a261f&area_color=0a261f&point=065831&area=true&hide_border=true&hide_title=false&custom_title=Contribution+Graph)
+ ![izzyjere](https://activity-graph.herokuapp.com/graph/?username=izzyjere&bg_color=0c1117&color=00883d&line=0a261f&area_color=0a261f&point=065831&area=true&hide_border=true&hide_title=false&custom_title=Contribution+Graph)

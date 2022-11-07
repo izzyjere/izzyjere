@@ -11,7 +11,7 @@
   
  - 👯 I’m looking to collaborate on **any cool open source projects** 
  
- - 🎓 I hold a Bachelor's Degree in Information Systems from <a href='https://cbu.ac.zm' target='blank'>The Copperbelt University</a>
+ - 🎓 I hold a Bachelor's Degree in Information Systems from <a href="https://www.cbu.ac.zm/" target="blank">The Copperbelt University</a>
  
  - 🤝 I’m open for **remote jobs/internships** 
   
@@ -20,7 +20,7 @@
   
  - 💬 Ask me about **Blazor, Xamarin.Forms, .NET MAUI, ASP.NET Core** 
   
- - 📫 How to reach me (dm on twitter) **@izzyjere** 
+ - 📫 How to reach me (dm on twitter) **@izzyjere** or <a href="mailto:wisdomjere5@gmail.com">Mail</a> 
   
  - 📄 Know about my experiences 
   

@@ -20,7 +20,7 @@
   
  - 💬 Ask me about **Blazor, Xamarin.Forms, .NET MAUI, ASP.NET Core** 
   
- - 📫 How to reach me (dm on twitter) **@izzyjere** or <a href="mailto:wisdomjere5@gmail.com">Mail</a> 
+ - 📫 How to reach me (dm on <a href="//wa.me/+260960715005">**WhatsApp**</a> or <a href="mailto:wisdomjere5@gmail.com">**Mail**</a> 
   
  - 📄 Know about my experiences 
   

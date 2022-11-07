@@ -11,7 +11,7 @@
   
  - 👯 I’m looking to collaborate on **any cool open source projects** 
  
- - 🎓 I hold a Bachelor's Degree in Information Systems from <a href='https://cbu.ac.zm' target="_blank">The Copperbelt University</a>
+ - 🎓 I hold a Bachelor's Degree in Information Systems from <a href='https://cbu.ac.zm' target='blank'>The Copperbelt University</a>
  
  - 🤝 I’m open for **remote jobs/internships** 
   

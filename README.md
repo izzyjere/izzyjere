@@ -12,8 +12,7 @@
  - 👯 I’m looking to collaborate on **any cool open source projects** 
  
  - 🎓 I hold a Bachelor's Degree in Information Systems from <a href="https://www.cbu.ac.zm/" target="blank">The Copperbelt University</a>
- 
- - 🤝 I’m open for **remote jobs/internships** 
+
   
  - 👨‍💻 All of my projects are available at [https://github.com/izzyjere](https://github.com/izzyjere) 
  

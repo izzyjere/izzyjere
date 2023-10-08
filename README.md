@@ -21,7 +21,8 @@
   
  - 📫 How to reach me (dm on <a href="//wa.me/+260960715005">**WhatsApp**</a> or <a href="mailto:wisdomjere5@gmail.com">**Mail**</a> 
   
- - 📄 Know about my experiences 
+ - 📄 Know about my experiences [CV](https://github.com/izzyjere/izzyjere/files/12841395/WISDOM.JERE.CV.pdf)
+
   
  - ⚡ Fun fact **Singing is my hobby (but I can't sing)** 
   

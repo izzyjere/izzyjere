@@ -37,5 +37,5 @@
  </p>   
  <h3 align="left">Languages and Tools:</h3>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=izzyjere&show_icons=true&locale=en&layout=compact" alt="izzyjere" /></p>
- <hr/>    
+ <h3 align="left">Streaks:</h3>
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izzyjere" alt="izzyjere" /></p> <br/>

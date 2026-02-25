@@ -68,7 +68,7 @@
 <a href="https://www.linkedin.com/in/wisdomjere">
   <img align="left" alt="izzyjere LinkedIn" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
 </a>
-<a href="https://www.reddit.com/user/izzyjere">
+<a href="https://www.facebook.com/share/184xju6aL5">
   <img align="left" alt="izzyjere Facebook" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg" />
 </a>
 

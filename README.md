@@ -8,5 +8,5 @@
  <a href="https://codelabs.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="izzyjere" height="30" width="40" /></a> 
  </p>   
  <h3 align="left">Languages and Tools:</h3>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=izzyjere&show_icons=true&locale=en&layout=compact" alt="izzyjere" /></p><br/>
+<br/>
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izzyjere" alt="izzyjere" /></p> 
